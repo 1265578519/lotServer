@@ -2,17 +2,17 @@
  ~~（脚本内置许可证的接口为我自己的接口了，有效期9999年那种 笑）~~
  > 常规自动安装（推荐，自动检测内核）
 ```
-bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/master/lotServerInstall.sh) install
+bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install
 ```
 
  > 指定内核安装
 ```
-bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/master/lotServerInstall.sh) install 2.6.32-573.1.1.el6.x86_64
+bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install 2.6.32-573.1.1.el6.x86_64
 ```
 
  > 完全卸载
 ```
-bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/master/lotServerInstall.sh) uninstall
+bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) uninstall
 ```
 ***
 ***
