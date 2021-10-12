@@ -23,3 +23,7 @@ bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/12655
 - 重新启动 /appex/bin/lotServer.sh restart
 ***
 ***
+ > Centos 7开机启动
+```
+echo "/usr/bin/sh /appex/bin/lotServer.sh restart" >> /etc/rc.d/rc.local
+```
