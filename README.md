@@ -5,9 +5,9 @@
 bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install
 ```
 
- > 指定内核安装
+ > 指定内核安装（centos6选2.6.32-754.el6.x86_64，centos7选3.10.0-957.el7.x86_64）
 ```
-bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install 2.6.32-642.el6.x86_64
+bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install 2.6.32-754.el6.x86_64
 ```
 
  > 完全卸载
