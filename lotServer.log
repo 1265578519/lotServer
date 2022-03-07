@@ -597,6 +597,8 @@ CentOS/6.6/2.6.32-504.el6.i686/x32/3.11.20.4/lotServer_7066
 CentOS/6.6/2.6.32-504.el6.i686/x32/3.10.66.36/lotServer_6769
 CentOS/6.6/2.6.32-504.el6.i686/x32/3.10.66.34/lotServer_6698
 CentOS/6.6/2.6.32-504.el6.i686/x32/3.10.61.0/lotServer_5783
+CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.11.36.2/lotServer_8330
+CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.11.20.10/lotServer_7911
 CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.11.20.4/lotServer_7008
 CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.10.66.36/lotServer_6770
 CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.10.66.34/lotServer_6725
@@ -661,9 +663,19 @@ CentOS/7.2/3.10.104-1-tlinux2-0041.live.appex.tl2/x64/3.11.35.2/lotServer_8831
 CentOS/7.2/3.10.104-1-tlinux2-0041.live.appex2.tl2/x64/3.11.35.2/lotServer_8891
 CentOS/7.2/4.9.0-1.el7.elrepo.x86_64/x64/3.11.37.12/lotServer_8702
 CentOS/7.3/3.10.0-514.2.2.el7.x86_64/x64/3.11.36.2/lotServer_8657
+CentOS/7.4/3.10.0-514.26.2.el7.x86_64/x64/3.11.74.0/lotServer_9148
+CentOS/7.4/3.10.0-693.25.4.el7.x86_64/x64/3.11.36.2/lotServer_9145
 CentOS/7.4/3.10.0-693.1.1.el7.x86_64/x64/3.11.36.2/lotServer_8954
 CentOS/7.4/4.11.2-1.el7.elrepo.x86_64/x64/3.11.49.15/lotServer_9095
+CentOS/7.4/4.20.12-1.el7.elrepo.x86_64/x64/3.11.36.2/lotServer_9140
 CentOS/7.6/3.10.0-957.el7.x86_64/x64/3.11.36.2/lotServer_9121
+CentOS/7.6/3.10.0-1127.18.2.el7.x86_64/x64/3.11.49.15/lotServer_9192
+CentOS/7.6/3.10.0-957.el7.centos.plus.i686/x32/3.11.36.2/lotServer_9134
+CentOS/7.6/4.9.137-1.el7.x86_64/x64/3.11.36.2/lotServer_9187
+CentOS/7.6/4.20.11-1.el7.elrepo.x86_64/x64/3.11.36.7/lotServer_9147
+CentOS/7.7/3.10.0-1062.el7.x86_64/x64/3.11.36.2/lotServer_9166
+CentOS/7.9/3.10.0-1160.2.1.el7.x86_64/x64/3.11.49.15/lotServer_9196
+CentOS_Linux/7.2/3.10.107-1-live.appex-0046/x64/3.11.70.0/lotServer_9155
 Red_Hat_Enterprise/5/2.6.18-53.el5/x32/3.11.36.2/lotServer_8404
 Red_Hat_Enterprise/5/2.6.18-53.el5/x32/3.11.20.10/lotServer_7812
 Red_Hat_Enterprise/5/2.6.18-53.el5/x32/3.11.20.4/lotServer_7032
@@ -1272,6 +1284,7 @@ Oracle/6.2/2.6.39-200.24.1.el6uek.x86_64/x64/3.11.36.2/lotServer_8365
 Oracle/6.2/2.6.39-200.24.1.el6uek.x86_64/x64/3.11.20.10/lotServer_7900
 Oracle/6.2/2.6.39-200.24.1.el6uek.x86_64/x64/3.11.20.4/lotServer_6984
 Oracle/6.2/2.6.39-200.24.1.el6uek.x86_64/x64/3.10.61.0/lotServer_5079
+Alibaba_Group_Enterprise_Linux_Server/6.2/2.6.32-220.1.alios6.x86_64/x64/3.11.36.2/lotServer_9040
 Amazon/14.03/3.10.35-43.137.amzn1.x86_64/x64/3.11.36.2/lotServer_8487
 Amazon/14.03/3.10.35-43.137.amzn1.x86_64/x64/3.11.20.10/lotServer_7797
 Amazon/14.03/3.10.35-43.137.amzn1.x86_64/x64/3.11.20.4/lotServer_6938
