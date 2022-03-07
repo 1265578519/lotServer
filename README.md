@@ -7,7 +7,7 @@ bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/12655
 
  > 指定内核安装
 ```
-bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install 2.6.32-754.18.2.el6.x86_64
+bash <(wget --no-check-certificate -qO-  https://raw.githubusercontent.com/1265578519/lotServer/main/lotServerInstall.sh) install 2.6.32-573.1.1.el6.x86_64
 ```
 
  > 完全卸载
