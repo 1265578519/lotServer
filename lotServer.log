@@ -1,4 +1,3 @@
-CentOS/6.4/2.6.32-999.el6.x86_64/x64/3.11.20.4/lotServer_6996
 CentOS/5/2.6.18-164.el5pae/x32/3.11.36.2/lotServer_8448
 CentOS/5/2.6.18-308.4.1.el5xen/x64/3.11.36.2/lotServer_8473
 CentOS/5/2.6.18-308.4.1.el5xen/x64/3.11.20.10/lotServer_7803
@@ -598,8 +597,6 @@ CentOS/6.6/2.6.32-504.el6.i686/x32/3.11.20.4/lotServer_7066
 CentOS/6.6/2.6.32-504.el6.i686/x32/3.10.66.36/lotServer_6769
 CentOS/6.6/2.6.32-504.el6.i686/x32/3.10.66.34/lotServer_6698
 CentOS/6.6/2.6.32-504.el6.i686/x32/3.10.61.0/lotServer_5783
-CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.11.36.2/lotServer_8330
-CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.11.20.10/lotServer_7911
 CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.11.20.4/lotServer_7008
 CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.10.66.36/lotServer_6770
 CentOS/6.6/2.6.32-573.1.1.el6.x86_64/x64/3.10.66.34/lotServer_6725
